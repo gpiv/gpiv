@@ -1,7 +1,7 @@
 # 👋 Hello! I’m Gabriel Pivovarov
 
 - ❤️ I love to code and learn about new technologies
-- 🛠️ I am skilled in C, C++, Python, Java, HTML, CSS, JavaScript, SQL
+- 🛠️ I am skilled in C, C++, Python, Java, HTML, CSS, JavaScript, React, Redux, and SQL
 - 💼 I’m currently seeking employment as a software developer
 - 📫 gpivovarov@pm.me
 
